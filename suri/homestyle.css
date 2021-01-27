@@ -1,0 +1,43 @@
+h1 {
+    text-align:center;
+    color : white;
+    font-family: cursive;
+}
+html,body{
+    width: 100%;
+    height:100%;
+}
+
+.title{
+    color: black;
+    text-align: center;
+}
+.menu{
+    color:black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+.row1 {
+    background-color: cornsilk;
+}
+.date {
+    text-align: center;
+    color: black;
+}
+.menubar{
+    height:100%;
+    text-align: center;
+    background-color:lightgray;
+    margin-left: 15px;
+    margin-right: 5px;
+    float:left;
+}
+.thumbnail
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
