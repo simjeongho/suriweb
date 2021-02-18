@@ -111,5 +111,6 @@ body{
 {
     margin-left: var(--base-space);
     font-size: var(--font-size);
+    font-family: 'Jeju Hallasan', cursive;
 }
 
